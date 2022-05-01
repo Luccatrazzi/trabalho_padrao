@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.tablestyle {
+margin-top: 5px;
+margin-left: 3px;
+}
+
+body {
+    background-color: rgba(11, 9, 126, 0.342);
+  }
+  
+  h1 {
+    color: rgb(10, 134, 179);
+    margin-left: 20px;
+  }
+
+  td {
+    color: rgb(10, 167, 21);
+    margin-left: 20px;
+  }
+
+  p {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  pre {
+    color: rgb(7, 1, 1);
+    margin-left: 20px;
+  }
+
+ 
